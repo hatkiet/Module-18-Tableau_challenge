@@ -1,5 +1,7 @@
 _(Note)_ To calculate distances between latitude and longitude coordinates using the Haversine formula, which is commonly used to calculate distances between two points on a sphere. I have used assistant from ChatGPT for algorithm to build my code. 
 
+URL to your Tableau Public workbook: https://public.tableau.com/app/profile/kiet.hoang3280/viz/Module_18_challenge_final/Story1?publish=yes 
+
 # Tableau_challenge
 
 ![citi-bike-station-bikes](https://github.com/hatkiet/Tableau_challenge/assets/154276115/5e802b4a-9e4d-4038-ba2f-c8819e4992ae)
