@@ -88,5 +88,5 @@ Four dashboards were designed to visualize and analyze Station, Trip, User, and 
 
 ## Conclusion 
 
-This Tableau analysis gives a brief overview of the trends and patterns in Citi Bike usage over the recent three months. One insightful phenomenon observed is the high reliance on bikes by residents of Jersey City, New Jersey, especially during weekdays during rush hours. This gathered information serves as a valuable resource for further research on Citi Bike. 
+This Tableau analysis gives a brief overview of the trends and patterns in Citi Bike usage over the three months or summer 2023. One insightful phenomenon observed is the high reliance on bikes by residents of Jersey City, New Jersey, especially during weekdays during rush hours. This gathered information serves as a valuable resource for further research on Citi Bike. 
 
