@@ -1,6 +1,6 @@
-_(Note)_ To calculate distances between latitude and longitude coordinates using the Haversine formula, which is commonly used to calculate distances between two points on a sphere. I have used assistant from ChatGPT for algorithm to build my code. 
+_(Note)_ In order to do this homework on Tableau-challenge, I have used the activities in class of week 18 to work on this assignment.  To calculate distances between latitude and longitude coordinates using the Haversine formula, which is commonly used to calculate distances between two points on a sphere. I have used some assistances from ChatGPT to build my code. 
 
-URL to your Tableau Public workbook: https://public.tableau.com/app/profile/kiet.hoang3280/viz/Module_18_challenge_final/Story1?publish=yes 
+URL to your Tableau Public workbook: https://public.tableau.com/app/profile/kiet.hoang3280/viz/Module_18_challenge_final_1/MapofStations?publish=yes 
 
 # Tableau_challenge
 
